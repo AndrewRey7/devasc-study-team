@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+=======
+Estamos haciendo Andrew
+>>>>>>> test
+Primera linea
+Segunda linea
+Estoy empezando a entender git
+
+Esta linea se agrego estando en la rama de caracteristicas
